@@ -1,6 +1,6 @@
 twitchy-jump is a toy
 
-##Usage
+## Usage
 
 1. plug in xbox controller
 1. start unity
